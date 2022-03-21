@@ -102,5 +102,6 @@ Project Link: [https://github.com/gab_gdp/runner](https://github.com/Gab404/runn
 [contributors-url]: https://github.com/Gab404/runner/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Gab404/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/Gab404/runner/network/members
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gabriel-guiet-dupre
 [product-screenshot]: assets/screenshot.png
