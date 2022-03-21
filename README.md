@@ -91,7 +91,8 @@ Help:
 <!-- CONTACT -->
 ## Contact
 
-Gabriel GUIET-DUPRE - [gabriel-guiet-dupre](https://linkedin.com/your_username) - gabriel.guiet-dupre@epitech.eu
+Gabriel GUIET-DUPRE - [in: gabriel-guiet-dupre](https://linkedin.com/gabriel-guiet-dupre) - gabriel.guiet-dupre@epitech.eu
+
 Project Link: [https://github.com/gab_gdp/runner](https://github.com/gab_gdp/runner)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
