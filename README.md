@@ -75,7 +75,8 @@ Use the `Makefile` to get started.
 ### Built With
 
 
-* [C]
+* [C](https://fr.wikipedia.org/wiki/C_(langage))
+* [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
