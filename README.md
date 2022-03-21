@@ -77,9 +77,13 @@ Use the `Makefile` to get started.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To start:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+      `./my_runner [map filpeath]`
+
+Help:
+
+      `./my_runner -h`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
