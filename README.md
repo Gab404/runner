@@ -79,11 +79,11 @@ Use the `Makefile` to get started.
 
 To start:
 
-      './my_runner [map filpeath]'
+      ./my_runner [map filpeath]
 
 Help:
 
-      './my_runner -h'
+      ./my_runner -h
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
