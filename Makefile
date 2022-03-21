@@ -36,7 +36,7 @@ SRC =    ./src/my_runner.c \
 
 OBJ    =    $(SRC:.c=.o)
 
-NAME   =    my_runner.exe
+NAME   =    my_runner
 
 CFLAGS += -Wall -Wextra
 
