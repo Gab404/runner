@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.guiet-dupre.com)
 
 Game with a scrolling camera in which the character must stay, while dodging obstacles.
 
