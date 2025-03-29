@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -12,7 +10,7 @@
   <h3 align="center">My Runner</h3>
 
   <p align="center">
-    Game with a scrolling camera in which the character must stay, while dodging obstacles.
+    A little game in which the character has to escape from these terrible monsters.
 </div>
 
 
@@ -39,10 +37,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.guiet-dupre.com)
 
-Game with a scrolling camera in which the character must stay, while dodging obstacles.
 
-
-Use the `Makefile` to get started.
+Use the `Makefile` to get started on Linux.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -63,11 +59,15 @@ Use the `Makefile` to get started.
 
 To start:
 
-      ./my_runner [map filpeath]
+  `./my_runner`
+
+You can make your own maps, using the same template that the current map already used in the game, and add the filepath when you start the game as it follows:
+  
+  `./my_runner [filepath]`
 
 Help:
 
-      ./my_runner -h
+  `./my_runner -h`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,9 +75,7 @@ Help:
 <!-- CONTACT -->
 ## Contact
 
-Gabriel GUIET-DUPRE - [in: gabriel-guiet-dupre](https://linkedin.com/in/gabriel-guiet-dupre) - gabriel.guiet-dupre@epitech.eu
-
-Project Link: [https://github.com/gab_gdp/runner](https://github.com/Gab404/runner)
+Gabriel GUIET-DUPRE - gabriel.guietdupre@edu.ece.fr
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
